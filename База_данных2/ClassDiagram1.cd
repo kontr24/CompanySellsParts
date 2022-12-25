@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="База_данных2.DeliveriesINSERT" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABIAAACAQABDIAAYEAACEGAAAAAAAAA=</HashCode>
+      <FileName>DeliveriesINSERT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.DeliveriesUPDATE" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAACAAABIAAACAQABDIAAYEAACEGAAAAAAAgA=</HashCode>
+      <FileName>DeliveriesUPDATE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.Form1">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CSBAQAAAKCCAAAEBBIGAIIECAM0DkEAgwBQfQaARZAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.PartsINSERT" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCAAAYEAAAEGAAAAAAAAA=</HashCode>
+      <FileName>PartsINSERT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.PartsUPDATE" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAAABCQAAYEAAAEGAAAAAAAgA=</HashCode>
+      <FileName>PartsUPDATE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.PricesINSERT" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAQABDAAAYEBACEEAAAAAAAAA=</HashCode>
+      <FileName>PricesINSERT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.PricesUPDATE" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAQABDAAAYEBACEEAAIAAAAgA=</HashCode>
+      <FileName>PricesUPDATE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.Program" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.SuppliersINSERT" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAQABCAAAYEAAAEGAAAAAAAAA=</HashCode>
+      <FileName>SuppliersINSERT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.SuppliersUPDATE" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACAQARCAAAYEAAAEGAAAAAAAgA=</HashCode>
+      <FileName>SuppliersUPDATE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.Properties.Resources" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="База_данных2.Properties.Settings" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
